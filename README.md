@@ -33,8 +33,8 @@ hardwaru a dále dependability softwaru.
 |02|xx.xx.xx|[Diagnostický graf systému se samokontrolou](https://github.com/pavelberanek91/dependabilita-is/tree/main/02_diagnosticky_graf)|xxx|
 |03|xx.xx.xx|[Grafická reprezentace diagnostického grafu](https://github.com/pavelberanek91/dependabilita-is/tree/main/03_graficka_reprezentace)|xxx|
 |04|xx.xx.xx|[Hodnocení možností diagnostiky](https://github.com/pavelberanek91/dependabilita-is/tree/main/04_moznosti_diagnostiky)|xxx|
-|05|xx.xx.xx|[Grafy funkcí](https://github.com/pavelberanek91/depentabilita-is/tree/main/05_grafy_funkci)|xxx|
-|06|xx.xx.xx|[Hodnocení diagnostického grafu](https://github.com/pavelberanek91/depentabilita-is/tree/main/06_hodnoceni_diagnostiky)|xxx|
+|05|xx.xx.xx|[Grafy funkcí](https://github.com/pavelberanek91/dependabilita-is/tree/main/05_grafy_funkci)|xxx|
+|06|xx.xx.xx|[Hodnocení diagnostického grafu](https://github.com/pavelberanek91/dependabilita-is/tree/main/06_hodnoceni_diagnostiky)|xxx|
 |07|xx.xx.xx|[Diagnostika založená na tabulce syndromů](https://github.com/pavelberanek91/dependabilita-is/tree/main/07_diagnostika_syndromy)|xxx|
 |08|xx.xx.xx|[Diagnostika založená na aposteriorní pravděpodobnosti](https://github.com/pavelberanek91/dependabilita-is/tree/main/08_diagnostika_aposteriorni)|xxx|
 
